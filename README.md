@@ -13,6 +13,6 @@ I’m Shadan PK – a passionate **graphic designer**, **front-end developer**, 
 ### 🌐 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/shadan-pk-b68427203)  
 - [Portfolio](https://shadan-pk.github.io/portfolio/)  
-- [Email](sshadanpk@gmail.com)  
+- [Email](mailto:sshadanpk@gmail.com)  
 
 Let’s build something amazing together! 🚀  
