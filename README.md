@@ -8,7 +8,7 @@ I’m Shadan PK – a passionate **graphic designer**, **front-end developer**, 
 ### 🌟 What I Do:
 - **Design:** Skilled in Adobe Photoshop, Premiere Pro, and other creative tools.  
 - **Development:** Proficient in HTML, CSS, JavaScript, and front-end technologies.  
-- **Projects:** Experienced in developing applications like timetable management systems and PostgreSQL + React apps.
+- **Projects:** Experienced in developing applications like timetable management systems and mongoDB + React apps.
 
 ### 🌐 Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/shadan-pk-b68427203)  
