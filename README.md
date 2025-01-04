@@ -1,5 +1,7 @@
+<!--
 ### 🚀 GitHub Streak:
 [![GitHub Streak](https://streak-stats.demolab.com?user=shadan-pk&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+-->
 
 # Hi there! 👋
 
